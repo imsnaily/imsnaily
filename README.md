@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [MiGhettoRP](https://discord.gg/mgnetwork)
 
-- 🌱 I’m currently learning **Svelte**
+- 🌱 I’m currently learning **Svelte** & **Rust**
 
 - 💬 Ask me about **ReactJS, MariaDB, TypeScript, JavaScript, Lua**
 
