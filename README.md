@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Snaily</h1>
 <p align="left"> <a href="https://twitter.com/imsnaily" target="blank"><img src="https://img.shields.io/twitter/follow/imsnaily?logo=twitter&style=for-the-badge" alt="imsnaily" /></a> </p>
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Java**
 
 - 💬 Ask me about **ReactJS, MariaDB, TypeScript, JavaScript, Lua**
 
