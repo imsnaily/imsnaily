@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 💬 Ask me about **ReactJS, MariaDB, TypeScript, JavaScript, Lua**
+- 💬 Ask me about **Svelte, ReactJS, TypeScript, JavaScript, Lua**
 
 - 📫 How to reach me **snaily@edenservices.dev**
 
