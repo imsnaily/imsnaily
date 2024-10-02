@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 💬 Ask me about **Svelte, ReactJS, TypeScript, JavaScript, Lua**
-
 - 📫 How to reach me **snaily@edenservices.dev**
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imsnaily&show_icons=true&theme=dark&locale=en&layout=compact" alt="imsnaily" /></p>
